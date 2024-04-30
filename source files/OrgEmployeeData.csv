@@ -1,0 +1,16 @@
+EMP_ID,EMP_FIRST_NAME,EMP_LAST_NAME,EMP_SALARY,DEPT_ID
+1,Mohamed,Saied,10000,10
+2,Ashraf,Samir,21000,20
+3,Omnia,Ahmed,30000,30
+4,Hossam,Hassan,35000,40
+5,Tarek,Fathy,33000,10
+6,Medhat,Mohamed,20000,20
+7,Nour,ElSayed,21000,30
+8,Ahmed,Refaat,10000,10
+9,Amgad,Ali,35000,20
+10,Hassan,Ahmed,33000,30
+11,Hammad,Samir,20000,40
+12,Haithem,Madkour,21000,10
+13,AbdelGhany,Khaled,30000,20
+14,Tuqa,Samir,35000,30
+15,Khaled,Amro,33000,40
